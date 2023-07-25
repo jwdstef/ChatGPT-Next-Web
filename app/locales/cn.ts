@@ -280,6 +280,7 @@ const cn = {
   },
   Plugin: {
     Name: "插件",
+    store: "返回工具商店",
   },
   Mask: {
     Name: "面具",
