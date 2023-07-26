@@ -285,6 +285,7 @@ const en: LocaleType = {
   },
   Plugin: {
     Name: "Plugin",
+    store: "back",
   },
   Mask: {
     Name: "Mask",
